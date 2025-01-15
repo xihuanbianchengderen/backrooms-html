@@ -1,0 +1,61 @@
+#bt{
+    display: inline-block;
+    background-color: #CDC673;
+}
+.syms{
+    background-image: url("bgt.png");
+    text-align: center;
+}
+#jj{
+    display: inline-block;
+}
+.jjnr{
+    background-image: url("bgt.png");
+    text-align: center;
+}
+#jjnr{
+    background-color: #CDC673;
+    text-align: center;
+}
+#class1{
+    background-image: url("download.webp");
+}
+#class{
+    background-image: url("bgt.png");
+}
+#class2{
+    float: right;
+}
+#btentity{
+    text-align: center;
+}
+#en1{
+    background-image: url(black.png);
+    color: white;
+    text-align: center;
+}
+#bten1{
+    display: inline-block;
+}
+#doc{
+    background-color: yellowgreen;
+}
+.doc{
+    background-color: #CDC673;
+}
+.doc1{
+    color: yellow;
+}
+#en{
+    background-image: url(black.png);
+    color: white;
+}
+button{
+    background-color: #CDC673;
+}
+#btdan{
+    background-color: yellowgreen;
+}
+#btdan2{
+    background-color: white;
+}
